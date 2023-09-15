@@ -15,7 +15,7 @@
 
     
     get <- function() {
-    	## Return the matrix
+    	## Avoir la matrice 
     	m
     }
 
